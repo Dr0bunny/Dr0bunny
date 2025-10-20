@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
@@ -44,8 +44,6 @@
   <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logoColor=white" height="35" alt="nmap"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="35" alt="wireshark"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" height="35" alt="owasp"  />
 </div>
 
 ###
@@ -88,6 +86,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white" height="40" alt="assembly logo"  />
 </div>
 
 ###
