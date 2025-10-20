@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm an 18-year-old Cybersecurity Student from Morocco 🇲🇦<br><br>- 🔐 I'm studying Cybersecurity & Penetration Testing<br>- 📚 I'm currently learning web application security, network pentesting, and exploit development<br>- 🧪 Practicing on HackTheBox, TryHackMe, and building my own lab<br>- 🎯 Goal: Become a professional penetration tester<br>- ⚡ In my free time I solve CTF challenges and explore new vulnerabilities</p>
+<p align="left">I'm an 18-year-old Cybersecurity Student <br><br>- 🔐 I'm studying Cybersecurity & Penetration Testing<br>- 📚 I'm currently learning web application security, network pentesting, and exploit development<br>- 🧪 Practicing on HackTheBox, TryHackMe, and building my own lab<br>- 🎯 Goal: Become a professional Red Teamer<br>- ⚡ In my free time I solve CTF challenges and explore new vulnerabilities</p>
 
 ###
 
