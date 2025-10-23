@@ -124,7 +124,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <p><i>⚠️ All security research and tools are for educational purposes and ethical hacking only.</i></p>
-</div>
